@@ -39,7 +39,5 @@ This repository contains my progress, solutions, and certifications from complet
   - Advanced joins and case statements
   - Performance tuning basics
 
----
 
-## 📁 Repository Structure
 
